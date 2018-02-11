@@ -1,0 +1,6 @@
+com/example/dlp/DeIdentificationIT.class
+com/example/dlp/RedactIT.class
+com/example/dlp/RiskAnalysisIT.class
+com/example/dlp/InspectIT.class
+com/example/dlp/MetadataIT.class
+com/example/dlp/QuickStartIT.class
